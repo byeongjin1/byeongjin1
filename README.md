@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Byeongjin's+AI+Git)](https://git.io/typing-svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongjin1&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongjin1)](https://github.com/anuraghazra/github-readme-stats)
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=byeongjin1&layout=compact&hide=html,css&langs_count=8
